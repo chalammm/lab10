@@ -1,15 +1,15 @@
 #include<iostream>
 using namespace std;
 
-int printO (int n,int m){
-if(n<=0){
+int printO (int N,int N){
+if(M<=0){
     cout << "Invalid input" << "\n";}
-for (int i = 1; i <= n; i++){
+for (int i = 1; i <= M; i++){
 
-    for (int i = 1; i <= m; i++){
+    for (int i = 1; i <= N; i++){
         cout << "O";
     }
-    if(m<=0){
+    if(N<=0){
         cout << "Invalid input";break;}
         cout << "\n";
     }return 0;

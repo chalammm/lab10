@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int printO (int N,int N){
+int printO (int M,int N){
 if(M<=0){
     cout << "Invalid input" << "\n";}
 for (int i = 1; i <= M; i++){

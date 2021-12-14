@@ -39,7 +39,7 @@ int main()
     		}
     	cout << setw(13) << left << total;
     	cout << setw(13) << left << pay;
-    	balance = total -pay;
+    	balance = total-pay;
     	cout << setw(13) << left << balance;
     	cout << "\n";
     	i++;
